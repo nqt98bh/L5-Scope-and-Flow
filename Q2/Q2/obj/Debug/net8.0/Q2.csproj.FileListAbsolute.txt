@@ -1,0 +1,14 @@
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\bin\Debug\net8.0\Q2.exe
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\bin\Debug\net8.0\Q2.deps.json
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\bin\Debug\net8.0\Q2.dll
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\bin\Debug\net8.0\Q2.pdb
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\Q2.dll
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\refint\Q2.dll
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\Q2.pdb
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+C:\Unitylearn\repos\Excecise L5\Q2\Q2\obj\Debug\net8.0\ref\Q2.dll
